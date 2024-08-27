@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on Full stack Development
 - - 📫 How to reach me ... jsaj2024@gmail.com
-                            https://x.com/she17ep
+                            https://x.com/aybanda17
     
 
 <!---
