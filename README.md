@@ -31,3 +31,19 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
 [![](https://visitcount.itsvg.in/api?id=aybanda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+<div align=center>
+   <a href="https://github.com/aybanda">
+   <img height=50 width=100% src="https://raw.githubusercontent.com/Sabyasachi-Seal/Sabyasachi-Seal/ouput/divider.gif">
+   </a>
+</div>
+
+
+<div align=center>
+   <a href="https://github.com/aybanda">
+   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aybanda&theme=redical&hide_border=true" />
+   </a>
+</div>
+<h2></h2>
+
