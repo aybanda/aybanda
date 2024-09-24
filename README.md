@@ -32,6 +32,9 @@ I'm a full time open source contributor, you can support me by buying me coffees
 
 <a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
+or with your lightening wallet
+ https://strike.me/aybanda
+
 [![](https://visitcount.itsvg.in/api?id=aybanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
