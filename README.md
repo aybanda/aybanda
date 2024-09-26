@@ -28,7 +28,7 @@ Familiar with
 aybanda/aybanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm a full time open source contributor, you can support me by buying me coffees!
+I'm an open source contributor, you can support me by buying me coffees!
 
 <a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
