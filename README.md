@@ -1,6 +1,6 @@
 Hello I am Ajay!
-    
-Familiar with
+
+I'm an open source contributor, familiar with
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -28,14 +28,22 @@ Familiar with
 aybanda/aybanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-I'm an open source contributor, you can support me by buying me coffees!
 
-<a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
-or with your lightening wallet
- https://strike.me/aybanda
 
-[![](https://visitcount.itsvg.in/api?id=aybanda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+<h2 align="center">Ajay's Stats </h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=aybanda&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=aybanda&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+<img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aybanda&hide=HTML&langs\_count=8&layout=compact&theme=react&border\_radius=10&size\_weight=0.5&count\_weight=0.5" alt="top langs of Aybanda" />
+    <br />
+</div>
 
 
 <div align=center>
@@ -45,10 +53,35 @@ or with your lightening wallet
 </div>
 
 
+
 <div align=center>
    <a href="https://github.com/aybanda">
    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=aybanda&theme=redical&hide_border=true" />
    </a>
 </div>
 <h2></h2>
+
+
+
+You can support me by buying me coffees!
+
+<a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
+
+or with your lightening wallet
+ https://strike.me/aybanda
+
+
+
+[![](https://visitcount.itsvg.in/api?id=aybanda&icon=0&color=0)](https://visitcount.itsvg.in)
+
+
+
+
+
+
+
+
+ <a href="mailto:aybanda17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
 
