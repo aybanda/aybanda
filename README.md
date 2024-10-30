@@ -61,6 +61,7 @@ You can click the Preview link to take a look at your changes.
 </div>
 <h2></h2>
 
+[![An image of @aybanda0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aybanda0)](https://holopin.io/@aybanda0)
 
 
 You can support me by buying me coffees!
@@ -84,4 +85,5 @@ or with your lightening wallet
  <a href="mailto:aybanda17@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
+
 
