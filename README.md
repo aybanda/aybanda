@@ -63,12 +63,13 @@ You can click the Preview link to take a look at your changes.
 
 [![An image of @aybanda0's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aybanda0)](https://holopin.io/@aybanda0)
 
+ ## 💰 You can support me by Donating
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Aybanda) 
 
-You can support me by buying me coffees!
 
 <a href="https://www.buymeacoffee.com/aybanda" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 157px !important;" ></a>
 
-or with your lightening wallet
+ with your lightening wallet
  https://strike.me/aybanda
 
 
