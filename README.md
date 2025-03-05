@@ -1,10 +1,10 @@
-Hello I am Ajay!
+**Hello I am Ajay!**
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Developer;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Open+Source+Contributor" alt="Typing SVG" />
 </p>
-
+<!---
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <a href="" target="_blank" title="Node.js" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="Node.js" width="30" height="30"/></a>&nbsp;&nbsp; <a href="" target="_blank" title="ReactJS" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="ReactJS" width="30" height="30"/></a>&nbsp;&nbsp;
@@ -21,7 +21,7 @@ Hello I am Ajay!
 <a href="" title="PostgreSQL" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Postman" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
 <a href="" title="Docker" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
-<!-- <a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp;
+<!-- <a href="" title="Kubernetes" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="" width="30" height="30"/></a>&nbsp;&nbsp; 
 
 <!---
 aybanda/aybanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
