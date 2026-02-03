@@ -5,13 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Security+Engineer" alt="Typing SVG" />
 </p>
 
-Specializing in application and API security, vulnerability research, and open-source software.  
-
-Identify, validate, and responsibly disclose security issues in production systems, including paid findings through private programs. Contribute to and review open-source codebases with a focus on secure design and code quality.  
-
-**Focus Areas:** application & API security, access control, business logic flaws, secure code review  
-**Open to:** remote application / product security roles
-
+Focused on application and API security. I identify, validate, and responsibly disclose vulnerabilities in production systems, including paid findings through private programs, and contribute to open-source codebases with an emphasis on secure design and code quality. Open to remote application or product security roles.
 
 
 
