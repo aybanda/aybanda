@@ -5,7 +5,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Security+Engineer" alt="Typing SVG" />
 </p>
 
-Focused on application and API security. I identify, validate, and responsibly disclose vulnerabilities in production systems, including paid findings through private programs, and contribute to open-source codebases with an emphasis on secure design and code quality. Open to remote application or product security roles.
 
 
 
@@ -21,9 +20,7 @@ Focused on application and API security. I identify, validate, and responsibly d
 
 
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aybanda&theme=react-dark&area=true&hide_border=true" width="100%" alt="Contribution Graph">
-</p>
+
 
 
  ##  You can support me here
